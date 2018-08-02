@@ -10,7 +10,7 @@ First, setup the alarm by editing the contents of ```url.txt```. For each url yo
 [--AM] [--PM]
 ```
 
-## Examples
+## Example
 
 This command sets an alarm for 5:38 PM:
 ```
