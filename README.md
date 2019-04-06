@@ -18,3 +18,7 @@ python alarm.py --hour 5 --minute 38 --PM
 ```
 
 To run the alarm in the background, use ```pythonw``` instead.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
